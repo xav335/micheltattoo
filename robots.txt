@@ -1,0 +1,15 @@
+# MICHELTATTOO.COM 
+# Robot Exclusion File -- robots.txt
+# Author:  admin@iconeo.fr
+# Last Updated:  09/09/2009 11:44:00
+
+# Disallow all
+User-agent: *
+Disallow: /factures/
+Disallow: /ttf/
+Disallow: /history/
+Disallow: /admin/
+Disallow: /stats/
+
+# Sitemap
+Sitemap: http://www.micheltattoo.com/GoogleSitemap.xml
